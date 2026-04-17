@@ -1,0 +1,16 @@
+# Web Framework & Server
+fastapi
+uvicorn
+
+# Machine Learning & Data Processing
+scikit-learn
+pandas
+numpy
+joblib
+
+# API Clients & Environment
+groq
+python-dotenv
+
+# Validation
+pydantic

@@ -12,7 +12,7 @@ from ml_model import load_model
 # App initialization
 # ---------------------------
 app = FastAPI()
-model = load_model("./artifacts/best_pipeline_GradientBoosting.joblib")
+model = load_model("./best_pipeline_GradientBoosting.joblib")
 
 # ---------------------------
 # Request model
